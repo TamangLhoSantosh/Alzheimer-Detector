@@ -4,3 +4,9 @@ numpy
 fastapi
 uvicorn
 python-multipart
+jupyter
+pandas
+seaborn
+matplotlib
+PIL
+sklearn
